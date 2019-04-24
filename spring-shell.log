@@ -1,0 +1,44 @@
+1556072967006:help
+1556072982414:register
+1556072992967:exit
+1556073282966:register --help
+1556073397729:--help
+1556073400401:help
+1556073416700:register help
+1556073420832:register --help
+1556073524834:help
+1556073532824:host register
+1556073535961:host
+1556074034823:7help
+1556074039056:help
+1556074383915:clear
+1556074387333:help
+1556074391781:exit
+1556078819151:remote
+1556078821857:exit
+1556078849856:remote
+1556078856716:exit
+1556081745398:help
+1556081752918:host_register help
+1556081757168:host_register --help
+1556081796099:host_register --hostname local_ubuntu --address 127.0.0.1 --port 22 --username root --password rootpw
+1556083282805:host_register --hostname local_ubuntu --username root --port 49154 --username root --password rootpw
+1556083323499:host_register --hostname local_ubuntu --address 127.0.0.1 --port 49154 --username root --password rootpw
+1556083343487:ssh_host --hostname local_ubuntu
+1556083436029:help
+1556083444357:ssh_host --hostname local_ubuntu
+1556083453734:c
+1556083544364:help
+1556083549195:ssh_host local_ubuntu
+1556083852726:ssh local_ubuntu
+1556083858400:ssh_host local_ubuntu
+1556084375003:help
+1556084377924:host_gets
+1556084415645:help
+1556084422496:host_gets
+1556087590607:help
+1556087593450:host_gets
+1556087769181:exit
+1556087790217:ssh_host local_ubuntu
+1556088161376:help
+1556088167374:ssh_host local_ubuntu
